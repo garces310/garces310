@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @garces310
-- 👀 I’m interested in desarrollo web..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#👋 Bienvenido al Github de Johnny Garces
 
-<!---
-garces310/garces310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![X](https://img.shields.io/badge/X-%23000000.ge&logo=X&logoColor=white)](https://twitter.com/home)
+
+Cada proyecto, cada desafío es una oportunidad para crecer.
